@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick.
 Add merge
 use sourcetrace add files
+change in dev branch after cherry-pick .gitignore
